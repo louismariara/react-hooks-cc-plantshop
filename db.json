@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "sativa",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHeqtqDjZk4Cfg8rEhRPLEbn18JuvotAKIbF2-lHRjeFa_T3lN7PRdUYJKMqkR9ERWM5Ov1vr02rZom_3pslaBRWTycPvskR2HUQmgZw",
+      "price": "3000",
+      "id": 8
     }
   ]
 }
